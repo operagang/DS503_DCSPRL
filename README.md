@@ -5,8 +5,7 @@ to test the trained model
 
     python test.py
 
-
-- to train a model
+to train a model
 
     python train.py
 
